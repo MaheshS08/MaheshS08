@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **QUEST**
 
-- 🌱 I’m currently learning **DSA,Web,Android,Back-end Services and Web Services**
+- 🌱 I’m currently learning **DSA,Web,React JS,Back-end Services and Web Services**
 
 - 💬 Ask me about **DSA,Web,Back-end Services and Web Services**
 
