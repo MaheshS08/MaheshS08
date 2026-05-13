@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Distributed Systems,Streaming storages**
 
-- 💬 Ask me about **Distributed System,Streaming storages**
+- 💬 Ask me about **Distributed Systems,Streaming storages**
 
 - 📫 How to reach me **mahesh.sambharam@gmail.com**
 
