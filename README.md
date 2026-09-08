@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center">💻Software Engineer | FOSS Enthusiast | Hyderabad, India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Mahesh</h1>
+<h3 align="center">💻Software Engineer | FOSS Enthusiast | Hyderabad, India</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshs08&label=Profile%20views&color=0e75b6&style=flat" alt="maheshs08" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshs08&label=Profile%20views&color=0e75b6&style=flat" alt="maheshs08" /> </p>
 
 - 🔭 I’m currently working on  **Apache Fluss, Bitcask implementation in Java**
 
@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Distributed Systems,Streaming storages**
 
-- 📫 How to reach me **mahesh.sambharam@gmail.com**
+- 📫 How to reach me **mahesh.sambharam@gmail.com** -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahesh-sambharam-631462b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahesh-sambharam-631462b2/" height="30" width="40" /></a>
 </p>
@@ -39,5 +39,24 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshs08&show_icons=true&locale=en" alt="maheshs08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshs08&" alt="maheshs08" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshs08&" alt="maheshs08" /></p> -->
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
+  
+### Mahesh Sambaram
+**Backend Engineer · Open Source Contributor · Distributed Systems**
+
+*Building scalable backend systems and real-time data infrastructure.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-sambaram-631462b2/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahesh.sambharam@gmail.com)
+
+</div>
+
+
+<div align="center">
+  <sub>⭐ Based in Hyderabad • Passionate about open source and distributed systems ⭐</sub>
+</div>
 
